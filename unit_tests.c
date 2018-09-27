@@ -4,7 +4,7 @@
  *
  * Example using assert.h libary
  *
- * To compile this, go into your project 1 folder on grace and type in the terminal: `gcc unit_tests.c functions.c -o test.x`
+ * To compile this, copy this file to your project1 folder on grace, then  type in the terminal: `gcc unit_tests.c functions.c -o test.x`
  * then run with test.x
  *
  *
